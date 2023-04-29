@@ -1,4 +1,6 @@
 # Project objectives
+## [Detailed Project](https://nbviewer.org/github/davidefilosa/CasualImpact/blob/master/Google%20Casual%20Impact.ipynb)
+
 
 In this project we will try to understand what is the effect of Paypal's announcement to accept Bitcoins on their value.
 
